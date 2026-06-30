@@ -78,7 +78,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino ESP32 | What the item is used for | $20 | <a href="https://a.co/d/0b9IyXSm"> Link </a> |
+| Arduino ESP32 | What the item is used for | $20 | <a href="https://a.co/d/0b9IyXSm/"> Link </a> |
 | Resistive Force Sensor | What the item is used for | $11.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Vibrating Mini motor | What the item is used for | $5.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Acceleromater | What the item is used for | $11.25 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
