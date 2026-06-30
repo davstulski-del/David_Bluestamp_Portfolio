@@ -78,17 +78,17 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino ESP32 | What the item is used for | $20 | <a href="https://a.co/d/0b9IyXSm/"> Link </a> |
-| Resistive Force Sensor | What the item is used for | $11.99 | <a href="https://a.co/d/0ilOJpfW/"> Link </a> |
-| Vibrating Mini motor | What the item is used for | $5.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Vibration-Arduino-MEGA2560-9000RPM-Minimum/dp/B0DY65KVQR/ref=sr_1_1?crid=1S59CCT73SV8&dib=eyJ2IjoiMSJ9.7WY8eBeZYk-JumG3DEeHlo7IjKHAMevWkk7OYafg2gc-Mz-xwUwh6krkN5s0TuBz4P6baDiDAaTsJnuEwKQzcdbrZqS6iWMxHDIF3jkX7c4dyW9_o5sX5zSQuiJhGE7VAm4_eoBCTqZ9HZrk655n7PKZ_IWk1_CnivnrwmH5DyPxq-7rQmPv50ffqTOcqZBjo-_b6latDLMGBwU71f59oFaVq_i-GIfia4JtGZg2ZTJtaV_Xx_W5Rl92fMUHOOJfeKRP7wxrR9JdXTeEXZ_-x38AJCqtWhpkew4uAIHUVCc.JT7tIlPxla1DZcswxscwWJPPJ5rB89BwYFmVtctBCBs&dib_tag=se&keywords=vibrating+mini+motor+breadboard&qid=1779543994&sprefix=vibrating+mini+motor+breadboar%2Caps%2C138&sr=8-1)/"> Link </a> |
-| Acceleromater | What the item is used for | $11.25 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| USBC | What the item is used for | $3.88 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Analog Temperature Sensor | What the item is used for | $12 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Armband | What the item is used for | $5.5 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Electronics Kit | What the item is used for | $14 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 9V barrel jack | What the item is used for | $6 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| DMM | What the item is used for | $9.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 9V Batteries | What the item is used for | $12.37 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino ESP32 | Small programmable board used to run code and connect sensors to Wi‑Fi/Bluetooth for electronics projects.r | $20 | <a href="https://a.co/d/0b9IyXSm/"> Link </a> |
+| Resistive Force Sensor | Measures pressure or force by changing its electrical resistance when pressed. | $11.99 | <a href="https://a.co/d/0ilOJpfW/"> Link </a> |
+| Vibrating Mini motor | Produces vibration for haptic feedback or alerts in small devices. | $5.99 | <a href="https://a.co/d/0dE3pviE/"> Link </a> |
+| Acceleromater | Measures acceleration and orientation (motion/tilt) of an object. | $11.25 | <a href="https://a.co/d/02l1g7ch/"> Link </a> |
+| USBC | Supplies power and transfers data between devices using a USB‑C connector. | $3.88 | <a href="https://a.co/d/0abhMgcf/"> Link </a> |
+| Analog Temperature Sensor | Outputs a voltage that changes with temperature so a microcontroller can read temperature. | $12 | <a href="https://a.co/d/0feTFzoj/"> Link </a> |
+| Armband | Holds sensors or a device on your arm securely during activity. | $5.5 | <a href="https://a.co/d/03qCI75b/"> Link </a> |
+| Electronics Kit | A starter collection of components (LEDs, resistors, jumper wires, etc.) used to build and learn circuits. | $14 | <a href="https://a.co/d/07xxwG7f/"> Link </a> |
+| 9V barrel jack | Connector used to plug a 9V power supply into a device or project. | $6 | <a href="https://a.co/d/0iUhgdwP/"> Link </a> |
+| DMM | Measures voltage, current, and resistance to test and troubleshoot electronics. | $9.99 | <a href="https://a.co/d/056W56EX/"> Link </a> |
+| 9V Batteries | Portable power source for small electronics and devices that accept 9V cells. | $12.37 | <a href="https://a.co/d/0iGcJrKB/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
