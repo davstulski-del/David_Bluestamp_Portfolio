@@ -1,11 +1,5 @@
 # Routine Reinforcement Armband
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+This project is a wearable armband that uses an ESP32, sensors, and a vibration motor to monitor movement and conditions like pressure or temperature, then give feedback through haptic and sound alerts. It combines inputs from an accelerometer, FSR, and temperature sensor to detect events and trigger different alert patterns. Overall, it demonstrates how a microcontroller can sense user behavior and provide real-time reminders or assistance.
 
 | **Engineer** | **School** | **Interest** | **Year** |
 |:--:|:--:|:--:|:--:|
@@ -49,7 +43,6 @@ For your second milestone, explain what you've worked on since your previous mil
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
 #include <Wire.h>                 // For MPU6050 accelerometer communication
@@ -239,8 +232,6 @@ void readAccelerometer(int16_t & x, int16_t & y, int16_t & z) {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
@@ -257,9 +248,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 | 9V Batteries | Portable power source for small electronics and devices that accept 9V cells. | $12.37 | <a href="https://a.co/d/0iGcJrKB/"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
