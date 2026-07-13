@@ -248,6 +248,5 @@ void readAccelerometer(int16_t & x, int16_t & y, int16_t & z) {
 | 9V Batteries | Portable power source for small electronics and devices that accept 9V cells. | $12.37 | <a href="https://a.co/d/0iGcJrKB/"> Link </a> |
 
 # Other Resources/Examples
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+- [Armband Notes](https://docs.google.com/document/d/1VrPdPcL-Z65wnyhI12oAp2Bm2EwKIptNxDfZ0WaQimU/edit?tab=t.0)
+- [Temperature Sensor Wiring Guide](https://saliterman.umn.edu/sites/saliterman.umn.edu/files/files/general/tmp36_temperature_sensor_arduino_tutorial_2_examples.pdf)
