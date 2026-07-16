@@ -5,8 +5,8 @@ This project is a wearable armband that uses an ESP32, sensors, and a vibration 
 |:--:|:--:|:--:|:--:|
 | David S. | Los Gatos High School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](<img width="1214" height="591" alt="image" src="https://github.com/user-attachments/assets/f52b9128-16da-466d-b755-3d0423b936eb" />
-)
+<img width="1214" height="591" alt="image" src="https://github.com/user-attachments/assets/7d18404f-41df-486f-b805-3a4236fad05c" />
+
   
 # Final Milestone
 
