@@ -5,13 +5,10 @@ This project is a wearable armband that uses an ESP32, sensors, and a vibration 
 |:--:|:--:|:--:|:--:|
 | David S. | Los Gatos High School | Electrical Engineering | Incoming Senior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Headstone Image](logo.svg)
+![Headstone Image](<img width="1214" height="591" alt="image" src="https://github.com/user-attachments/assets/f52b9128-16da-466d-b755-3d0423b936eb" />
+)
   
 # Final Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="315" height="560"
   src="https://www.youtube.com/embed/zo8FEhIY_fE"
