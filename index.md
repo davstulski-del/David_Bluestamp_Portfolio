@@ -18,19 +18,19 @@ This project is a wearable armband that uses an ESP32, sensors, and a vibration 
   allowfullscreen>
 </iframe>
 
-In this final milestone, I finished the final project with my modification (smaller breadboards). All of my hardware is on my arm now and it works perfectly giving me readings, beeps and buzzes when required.
+In the final milestone, I transitioned from a bench‑top prototype to a fully wearable Routine Reinforcement Armband by shrinking the hardware footprint and mounting all components on my arm. I reorganized the layout using smaller breadboards and cleaner wiring so the ESP32, accelerometer, temperature sensor, vibration motor, buzzer, and button all fit securely on the armband without loose connections. With everything strapped to my arm, I tested the MPU6050’s motion readings and the temperature sensor in real‑world use, verifying that the device could still detect movement above a threshold and temperature conditions while I moved around. The haptic and audio alerts now felt like actual reminders, and the mute button let me acknowledge and silence alerts when needed, turning the project into a practical, wearable prototype that can monitor behavior and give real‑time feedback.
 
 # Second Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVqLNLeHLR0?si=VjFMG_JSA3n3SJ5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-In this milestone, I got a working temperature sensor and I no longer need a photoresistor to give me fake values. I now have the completed tabletop demo and now I just need to shrink it and put it on my arm.
+In the second milestone, I upgraded the prototype by getting a real analog temperature sensor working and integrating it into the existing tabletop system. I wired the TMP36‑style sensor into an analog input on the ESP32 and updated my code to convert the 12‑bit ADC reading into a voltage and then into a temperature in Celsius using the sensor’s linear transfer function, adding a small calibration offset so that the readings matched realistic room temperatures. With that in place, I defined temperature thresholds and combined them with the accelerometer‑based motion detection so that the device could trigger different vibration and buzzer patterns depending on whether motion, temperature, or both were in an alert state. By the end of this milestone, the breadboard version behaved like a complete monitoring system with real sensor data and distinct feedback patterns for each condition
 
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Q3Q7nljpsE?si=vUZ1TnC5lamlJ1i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-In this milestone, I just wanted to create a tabletop demo of the armband so that I could refine the wiring without having to wear it yet. An issue came up with the temperature sensor, so I had to use a photoresistor which gave me fake temperature values using the light.
+In this first milestone, I focused on creating a tabletop prototype of the Routine Reinforcement Armband so I could refine the wiring and logic before worrying about wearability. Instead of mounting everything on my arm, I laid out the ESP32, vibration motor, buzzer, and sensors on breadboards, which made it easy to swap parts and debug. The main challenge was that the real temperature sensor was not working reliably yet, so I temporarily replaced it with a photoresistor and used light levels as “fake” temperature values to test my analog reading and threshold logic. I also brought up the MPU6050 accelerometer over I²C and verified that I could read and interpret movement data, then used that along with the fake temperature input to drive different alert patterns and confirm that the overall sensing and alert pipeline was functioning correctly on the bench.
 
 # Schematics 
 <img width="1408" height="692" alt="image" src="https://github.com/user-attachments/assets/6f15fa93-3cdc-400d-b3ca-5b0652d648ba" />
