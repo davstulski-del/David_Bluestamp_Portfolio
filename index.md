@@ -18,13 +18,19 @@ This project is a wearable armband that uses an ESP32, sensors, and a vibration 
   allowfullscreen>
 </iframe>
 
+In this final milestone, I finished the final project with my modification (smaller breadboards). All of my hardware is on my arm now and it works perfectly giving me readings, beeps and buzzes when required.
+
 # Second Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVqLNLeHLR0?si=VjFMG_JSA3n3SJ5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+In this milestone, I got a working temperature sensor and I no longer need a photoresistor to give me fake values. I now have the completed tabletop demo and now I just need to shrink it and put it on my arm.
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Q3Q7nljpsE?si=vUZ1TnC5lamlJ1i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this milestone, I just wanted to create a tabletop demo of the armband so that I could refine the wiring without having to wear it yet. An issue came up with the temperature sensor, so I had to use a photoresistor which gave me fake temperature values using the light.
 
 # Schematics 
 <img width="1408" height="692" alt="image" src="https://github.com/user-attachments/assets/6f15fa93-3cdc-400d-b3ca-5b0652d648ba" />
